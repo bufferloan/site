@@ -1,0 +1,19 @@
+<!--
+BufferLoan Platform — Copyright (c) 2026 Mission Autonomy AI LLC ("MAAI").
+
+PROPRIETARY AND CONFIDENTIAL. Custom Deliverable developed by MAAI for
+BufferLoan LLC under the Development, Revenue Share, and Equity Agreement
+dated 2026-07-23 (the "Agreement").
+
+MAAI retains all right, title, and interest in this file until the
+Development Costs for the applicable Phase are fully recouped, at which
+point title assigns automatically to BufferLoan LLC (Agreement §7.1).
+Until then, BufferLoan LLC holds a limited, non-exclusive, non-transferable
+license to host, use, and operate this file solely to run the Platform
+(§7.2). No right to modify, create derivative works from, sublicense,
+distribute, or disclose this file is granted; MAAI reserves all such rights.
+
+Third-party and open-source components remain under their own licenses
+(§7.4). Full terms: LICENSE.md. Governed by Texas law.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64.00 64.00" width="64.00" height="64.00"><defs><linearGradient id="g" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0" stop-color="#12452f"/><stop offset="0.75" stop-color="#0a3625"/></linearGradient></defs><rect x="0" y="0" width="64.00" height="64.00" rx="11.52" fill="url(#g)"/><rect x="1.5" y="1.5" width="61.00" height="61.00" rx="10.02" fill="none" stroke="#ffffff" stroke-opacity="0.07" stroke-width="2"/><rect x="8.32" y="28.33" width="13.58" height="7.34" rx="3.67" fill="#f2b824"/><rect x="25.21" y="28.33" width="13.58" height="7.34" rx="3.67" fill-opacity="0.72" fill="#ffffff"/><rect x="42.10" y="28.33" width="13.58" height="7.34" rx="3.67" fill-opacity="0.72" fill="#ffffff"/></svg>
